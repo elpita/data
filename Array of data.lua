@@ -1,6 +1,54 @@
 flashcard[23] = {
 
-
-
+AL = {"Bradley Byrne"}
+AK = {"Don Young"}
+AZ = {"Martha McSally"}
+AR = {"French Hill"}
+CA = {"Jared Huffman"}
+CO = {"Ken Buck"}
+CT = {"Elizabeth Esty"}
+DE = {"John Carney"}
+FL = {"Ted Yoho"}
+GA = {"Buddy Carter"}
+HI = {"Mark Takai"}
+ID = {"Raúl Labrador"}
+IL = {"Robert Dold"}
+IN = {"Susan Brooks"}
+IA = {"Rod Blum"}
+KS = {"Mike Pompeo"}
+KY = {"Andy Barr"}
+LA = {"Ralph Abraham"}
+ME = {"Bruce Poliquin"}
+MD = {"John Delaney"}
+MA = {"Joe Kennedy"}
+MI = {"John Moolenaar"}
+MN = {"Tom Emmer"}
+MS = {"Trent Kelly"}
+MO = {"Ann Wagner"}
+MT = {"Ryan Zinke"}
+NE = {"Brad Ashford"}
+NV = {"Dina Titus"}
+NH = {"Frank Guinta"}
+NJ = {"Tom MacArthur"}
+NM = {"Steve Pearce"}
+NY = {"Lee Zeldin"}
+NC = {"Mark Walker"}
+ND = {"Kevin Cramer"}
+OH = {"Bill Johnson"}
+OK = {"Steve Russell"}
+OR = {"Kurt Schrader"}
+PA = {"Scott Perry"}
+RI = {"David Cicilline"}
+SC = {"Jeff Duncan"}
+SD = {"Kristi Noem"}
+TN = {"Diane Black"}
+TX = {"John Ratcliffe"}
+UT = {"Chris Stewart"}
+VT = {"Peter Welch"}
+VA = {"Scott Rigell"}
+WA = {"Jaime Herrera Beutler"}
+WV = {"Alex Mooney"}
+WI = {"Mark Pocan"}
+WY = {"Cynthia Lummis"}
 
 }
